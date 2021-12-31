@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Data driven test for positive cases
+Documentation       Data driven test for positive cases with value read from csv file
 
 
 Resource        ${CURDIR}/../keywords/import_keywords.robot
