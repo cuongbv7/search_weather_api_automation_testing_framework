@@ -1,0 +1,7 @@
+### Dev
+weather_api: https://api.openweathermap.org/data/2.5/weather
+appid:  a93c78f714beb362b0438357ad6fe022
+invalid_appID: a93c78f714beb362b043123456aaaa
+success_code: 200
+unauthorized_code: 401
+notfound_code:  404

@@ -1,0 +1,8 @@
+### install under venv python 3
+--index-url https://pypi.python.org/simple
+robotframework==4.1
+requests==2.20.0
+pyyaml==3.11
+robotframework-pabot==2.0.1
+geopy
+

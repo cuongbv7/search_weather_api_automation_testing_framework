@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -149.9003,
+        "lat": 61.2181
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 264.52,
+        "feels_like": 264.52,
+        "temp_min": 260.64,
+        "temp_max": 269.63,
+        "pressure": 1005,
+        "humidity": 81
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.45,
+        "deg": 325,
+        "gust": 1.79
+    },
+    "snow": {
+        "1h": 0.3
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1640930149,
+    "sys": {
+        "type": 2,
+        "id": 2008005,
+        "country": "US",
+        "sunrise": 1640891684,
+        "sunset": 1640911780
+    },
+    "timezone": -32400,
+    "id": 5879400,
+    "name": "Anchorage",
+    "cod": 200
+}

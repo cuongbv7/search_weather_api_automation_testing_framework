@@ -1,0 +1,4 @@
+city,state_code,country_code,longtitude,latitude,timezone,cityID
+Ha noi,,VN,105.804817,21.030653,25200,1581130
+Anchorage,,US,-149.863129,61.217381,-32400,5879400
+Anchorage,US-AK,US,-149.863129,61.217381,-32400,5879400
