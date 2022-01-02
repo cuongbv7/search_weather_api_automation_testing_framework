@@ -12,7 +12,7 @@ ${csv_file}     ${CURDIR}/../resources/data_test/data_driven.csv
 
 *** Test Cases ***
 
-Success cases - Get weather data
+Success cases_001 - Get weather data
     @{data}=    GET DATA FROM CSV    ${csv_file}
 
     FOR    ${row}    IN    @{data}
