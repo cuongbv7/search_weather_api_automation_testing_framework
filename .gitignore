@@ -3,3 +3,4 @@
 /reports/output.xml
 /reports/report.html
 .idea/
+common/__pycache__/distanceCalculator.cpython-36.pyc

@@ -29,7 +29,7 @@ Verify response body
     should be equal as strings      ${response['sys']['country']}           ${country_code}
     should be equal as strings      '${response['timezone']}'               '${timeZone}'
     should be equal as strings      '${response['id']}'                     '${cityId}'
-    coordinate should be accurate within expected value     ${longtitude}     ${latitude}     ${response['coord']['lon']}  ${response['coord']['lat']}    50
+    coordinate should be accurate within expected value     ${longtitude}     ${latitude}     ${response['coord']['lon']}  ${response['coord']['lat']}    0
 
     should not be empty     '${response['weather'][0]['id']}'
     should not be empty     ${response['weather'][0]['main']}
