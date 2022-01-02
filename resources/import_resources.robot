@@ -1,2 +1,2 @@
 *** Settings ***
-Variables           config_dev.yaml
+Variables           config_${ENV}.yaml

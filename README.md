@@ -18,4 +18,8 @@ key}
 * cd to folder 'scripts' and run command "chmod +x run.sh"
 * cd back to root folder and run "docker-compose up" , the test should just run. Open the reports/report.html using your browser to dive into your test results.
 
+Note: The test framework will run with all configures in /resources/config_dev.yaml file by default.
+  If you want to run with configures in another configure file , let update ENV variable in /scripts/run.sh file
+  with suffix name corresponding (ex: ENV=qa to run with config in config_qa.yaml)
+
 ![img_1.png](img_1.png)
